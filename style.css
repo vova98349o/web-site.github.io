@@ -1,0 +1,39 @@
+body {
+
+    background-color: white;
+}
+
+p {
+    font-size: 40px;
+    color: black;
+    margin-top: 100px;
+    font-family: 'IBM Plex Serif', serif;
+    box-sizing: border-box;
+}
+
+div {
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px 1px rgba(0,0,0,0.3);
+}
+h1 {
+    margin-bottom: 30px;
+    color: #13315C;
+    font-family: "Russo One", sans-serif;
+}
+
+img {
+    max-width: 500px;
+    margin: auto;
+    display: block;
+}
+
+a{
+    color: mediumblue;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: Arial;
+    border-bottom: 1px solid transparent;
+}
